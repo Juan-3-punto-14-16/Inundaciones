@@ -46,7 +46,6 @@ Como resultado, esperamos que las personas reciban alertas sobre inundaciones en
 
 ### ¿Qué cosas deliberadamente no realizará el proyecto?
 
-- Todos los puntos estratégicos en riesgo de inundación en el Área Metropolitana de Guadalajara.
 - Puntos en riesgo de inundación que no fueron previamente seleccionados.
 - No contempla inundaciones no provocadas por precipitaciones.
 - Evitar o mitigar inundaciones.
